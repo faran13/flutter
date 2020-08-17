@@ -51,11 +51,7 @@ class _MyHomePageState extends State<MyHomePage> {
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: <Widget>[
               Text("Hello"),
-              Text("Hello"),
-              Text("Hello"),
-              Text("Hello"),
-              Text("Hello"),
-              Text("Hello"),
+              Text("world"),
             ],
           ),
         ),
